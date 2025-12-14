@@ -19,9 +19,6 @@ It is created for practicing **Linux shell scripting fundamentals**.
 
 ## ▶️ How to Run
 ### 1️⃣ Clone the repository
-## ▶️ How to Run
-
-### 1️⃣ Clone the repository
 ```
 git clone https://github.com/aakansha113/devops-bash-basics.git
 ```
@@ -40,5 +37,8 @@ chmod +x calculator.sh
 ```
 ./calculator.sh
 ```
+## 📷 Sample Output
 
+### The output of the script execution is attached in the **Assets** section of this repository.
 
+#### Please refer to the screenshot for a sample run of the calculator script.
