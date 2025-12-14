@@ -21,7 +21,7 @@ It is created for practicing **Linux shell scripting fundamentals**.
 ## ▶️ How to Run
 ### 1️⃣ Clone the repository
 ```
-git clone https://github.com/aakansha113/bash-calculator.git)
+git clone https://github.com/aakansha113/bash-calculator.git
 ```
 
 2️⃣ Navigate to the project directory
