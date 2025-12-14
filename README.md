@@ -16,6 +16,7 @@ It is created for practicing **Linux shell scripting fundamentals**.
 
 ## 📂 Files
 - `calculator.sh` – Main Bash calculator script
+- `assets` – Images of output
 
 ## ▶️ How to Run
 ### 1️⃣ Clone the repository
