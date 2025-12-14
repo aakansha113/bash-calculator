@@ -19,14 +19,26 @@ It is created for practicing **Linux shell scripting fundamentals**.
 
 ## ▶️ How to Run
 ### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+## ▶️ How to Run
 
+### 1️⃣ Clone the repository
+```
+git clone https://github.com/aakansha113/devops-bash-basics.git
+```
+
+2️⃣ Navigate to the project directory
+```
+cd devops-bash-basics
+```
+
+3️⃣ Give execute permission
 ```
 chmod +x calculator.sh
+```
 
-
+4️⃣ Run the script
 ```
 ./calculator.sh
+```
 
 
