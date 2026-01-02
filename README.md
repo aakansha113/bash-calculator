@@ -1,3 +1,4 @@
+
 # Bash Calculator Script
 
 This repository contains a simple **menu-driven calculator** written in **Bash**.
